@@ -1,0 +1,1 @@
+Sửa c2 thành b2 rồi push lên nhánh beta

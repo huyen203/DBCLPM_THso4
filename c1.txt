@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Sửa c1 thành b1 rồi push lên nhánh master
+=======
+Sửa c1 thành b1 rồi push lên nhánh beta
+>>>>>>> beta
